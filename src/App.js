@@ -11,6 +11,7 @@ function App() {
 
   return (<>
 <tarique />
+<h1>Second update from tarique... pulling from terminal</h1>
 <Homepage></Homepage>
 </>
   );
